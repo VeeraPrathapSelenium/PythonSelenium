@@ -1,0 +1,27 @@
+[
+  {
+    "name": "game_time",
+    "type": "int",
+    "info": "millisecond count since start of game"
+  },
+  {
+    "name": "round",
+    "type": "int",
+    "info": "number of the current round when the event takes place or 0 if no round"
+  },
+  {
+    "name": "coordinates",
+    "type": "object",
+    "info": "the game screen coordinates of the mouse click\\ndictionary:\\n{“x”:integer, “y”:integer, “stage_width”:integer, “stage_height”:integer}"
+  },
+  {
+    "name": "event_count",
+    "type": "int",
+    "info": "session event counter"
+  },
+  {
+    "name": "event_code",
+    "type": "int",
+    "info": "event class identifier"
+  }
+]

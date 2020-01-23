@@ -1,0 +1,9 @@
+
+#DataBase Details
+[Dev_DB_DETAILS]
+serverName=LAPTOP-S1LVCJIH\SQLEXPRESS
+dbName=Products
+
+#Application Details
+[DEV_APPLICATION_DETAILS]
+app_url=https://www.nopcommerce.com/

@@ -1,0 +1,5 @@
+2020-01-22 06:46:32,153   LooginFeature  15 DEBUG Hello i am from debug level
+2020-01-22 06:46:32,154   LooginFeature  16 INFO Hello i am from info level
+2020-01-22 06:46:32,154   LooginFeature  17 WARNING Hello i am from warning level
+2020-01-22 06:46:32,154   LooginFeature  18 ERROR Hello i am from error level
+2020-01-22 06:46:32,154   LooginFeature  19 CRITICAL Hello i am from critical level
